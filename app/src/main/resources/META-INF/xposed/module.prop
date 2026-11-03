@@ -1,0 +1,9 @@
+minApiVersion=101
+targetApiVersion=101
+exceptionMode=protective
+name=PrivGuard
+author=iliyian
+version=1.0.0
+versionCode=1
+description=按应用拦截剪贴板读写，并过滤 PackageManager 返回的应用列表
+staticScope=false

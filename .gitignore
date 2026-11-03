@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+testapp/build/
+
+# Local machine config
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build artifacts / signing
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Scratch screenshots
+screen[0-9]*.png
+picker*.png
