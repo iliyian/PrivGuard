@@ -82,3 +82,7 @@ testapp/                     验证 Hook 效果的调试 App
 - 应用列表过滤只影响 Java 层 PackageManager 调用。
 - 作用域变更需要重启/强制停止目标应用。
 - 剪贴板拦截是静默拦截，不区分“用户主动粘贴”和“应用主动读取”；需要按次询问可考虑 ClipboardGuard / Arirang 等方案。
+
+## License
+
+[MIT](LICENSE)
